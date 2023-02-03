@@ -30,4 +30,4 @@
     "wdio-chromedriver-service": "^8.0.1",
     "wdio-wait-for": "^3.0.2"
   }
-}
+}  
